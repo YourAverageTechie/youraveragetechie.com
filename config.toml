@@ -1,0 +1,11 @@
+baseURL = 'https://youraveragetechie.com/'
+languageCode = 'en-us'
+title = 'YourAverageTechie'
+theme = 'techie'
+
+[menu]
+    [[menu.main]]
+        indentifier = "posts"
+        name = "Posts"
+        url = "/posts"
+        weight = "2"
