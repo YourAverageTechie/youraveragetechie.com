@@ -1,14 +1,26 @@
 /* LAYOUT */
 
 body {
-  background-color: #2f333f;
-  color: rgb(219, 233, 255);
+  background-color: #fff7e7;
+  color: rgb(31, 33, 36);
   font-size: 125%;
   line-height: 1.5;
   max-width: 45rem;
   padding: 1rem;
   margin: 0 auto;
   font-family: OCR A Std, monospace;
+}
+
+h1 {
+  color: rgb(255, 72, 0);
+}
+
+h2 {
+  color: rgb(255, 72, 0);
+}
+
+h3 {
+  color: rgb(255, 72, 0);
 }
 
 img {
@@ -47,15 +59,15 @@ img {
 }
 
 a:link {
-  color: rgb(219, 233, 255);
+  color: rgb(255, 72, 0);
 }
 
 a:visited {
-  color: rgb(219, 233, 255);
+  color: rgb(255, 72, 0);
 }
 
 a:hover {
-  color: white;
+  color: rgb(255, 145, 0);
 }
 
 @media screen and (max-width: 48rem) {
