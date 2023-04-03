@@ -11,6 +11,10 @@ body {
   font-family: OCR A Std, monospace;
 }
 
+a {
+  text-decoration: none;
+}
+
 h1 {
   color: rgb(255, 72, 0);
 }
@@ -39,6 +43,9 @@ img {
 
 .site-nav {
   display: flex;
+  background-color: #ffedca;
+  padding-left: 10px;
+  border-radius: 10px;
 }
 
 .site-nav a {
